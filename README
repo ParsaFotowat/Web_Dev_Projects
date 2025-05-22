@@ -1,0 +1,54 @@
+# Web Dev Career Portfolio
+
+Welcome to my Web Development Career Portfolio!  
+This repository contains my learning projects, exercises, and portfolio work as I progress through my journey as a web developer.
+
+## 📁 Project Structure
+
+```
+HTML/
+  sec_1/
+    2.1 Heading Element/
+    2.2 Paragraph Element/
+    2.3 Void Elements/
+    2.4 Movie Ranking Project/
+  sec_2/
+    3.0 List Elements/
+    3.1 Nesting and Indentation/
+    3.2 Anchor Elements/
+    3.3 Image Elements/
+    3.4 Birthday Invite Project/
+  sec_3/
+    4.0 File Paths/
+    4.1-Webpages/
+    4.3 HTML Porfolio Project/
+```
+
+- Each section contains exercises and mini-projects focused on specific HTML concepts.
+- The [HTML/sec_3/4.3 HTML Porfolio Project](HTML/sec_3/4.3%20HTML%20Porfolio%20Project/index.html) is my main portfolio site, showcasing my projects.
+
+## 🚀 Featured Projects
+
+- **Movie Ranking Project:**  
+  See my top movie picks and practice with HTML lists and headings.  
+  [View Project](HTML/sec_3/4.3%20HTML%20Porfolio%20Project/public/movie-ranking.html)
+
+- **Birthday Invite Project:**  
+  A fun invitation page using images, lists, and links.  
+  [View Project](HTML/sec_3/4.3%20HTML%20Porfolio%20Project/public/birthday-invite.html)
+
+- **Portfolio Website:**  
+  My personal portfolio homepage.  
+  [View Portfolio](HTML/sec_3/4.3%20HTML%20Porfolio%20Project/index.html)
+
+## 📚 About
+
+This repository is a collection of my progress as I learn and build web development skills.  
+Feel free to explore the folders and check out the HTML files for each project.
+
+---
+
+**Contact:**  
+Parsa Fotowat  
+Email: Parsafotowat@gmail.com  
+Location: Turin, Italy
